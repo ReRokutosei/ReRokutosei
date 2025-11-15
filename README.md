@@ -16,11 +16,8 @@ Anime Without Equal<br><strong>「ぼっち・ざ・ろっく！」</strong><br>
 Favorite Character (NO CONTEST)<br><strong>「結束バンド」</strong><br>
 
 ![Badge](https://gist.githack.com/ReRokutosei/7f84c1a5d29566cb9f6455f3c73963b5/raw/badge.svg)
-
 <br>
-
-![](assets/KessokuBand.webp)
-
+<img src="assets/KessokuBand.webp" width="650">
 </div>
 <!--
 **ReRokutosei/ReRokutosei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
