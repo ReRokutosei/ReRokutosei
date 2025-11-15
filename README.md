@@ -19,7 +19,7 @@ Favorite Character (NO CONTEST)<br><strong>「結束バンド」</strong><br>
 
 <br>
 
-![](assets\KessokuBand.webp)
+![](assets/KessokuBand.webp)
 
 </div>
 <!--
