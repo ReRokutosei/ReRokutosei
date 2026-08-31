@@ -16,7 +16,7 @@
       <a href="https://github.com/ReRokutosei?tab=repositories">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://stats-mu-three.vercel.app/api?username=ReRokutosei&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&exclude_repo=stats&title_color=ff6496&text_color=ff6496&icon_color=ff6496" />
-          <img src="https://stats-mu-three.vercel.app/api?username=ReRokutosei&show_icons=true&hide_border=true&bg_color=00000000&exclude_repo=stats&title_color=ff6496&text_color=ff6496&icon_color=ff6496" height="200" alt="GitHub Stats" />
+          <img src="https://stats-mu-three.vercel.app/api?username=ReRokutosei&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&exclude_repo=stats,fork-VueTorrent,Rokutosei-landing,Rokutosei-views-counter,XrayCoreDashboard,miuix,MyBlog,MyMihomoConfig,MyXrayConfig,MySingTunConfig,Mishka,Thesis,SyncSeedbox&title_color=ff6496&text_color=ff6496&icon_color=ff6496" alt="GitHub Stats" />
         </picture>
       </a>
     </td>
@@ -24,7 +24,7 @@
       <a href="https://github.com/ReRokutosei?tab=repositories">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://stats-mu-three.vercel.app/api/top-langs?username=ReRokutosei&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000&theme=dark&exclude_repo=stats&title_color=ff6496&text_color=ff6496&icon_color=ff6496" />
-          <img src="https://stats-mu-three.vercel.app/api/top-langs?username=ReRokutosei&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000&exclude_repo=stats&title_color=ff6496&text_color=ff6496&icon_color=ff6496" height="200" alt="Top Languages" />
+          <img src="https://stats-mu-three.vercel.app/api/top-langs?username=ReRokutosei&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000&theme=dark&exclude_repo=stats,fork-VueTorrent,Rokutosei-landing,Rokutosei-views-counter,XrayCoreDashboard,miuix,MyBlog,MyMihomoConfig,MyXrayConfig,MySingTunConfig,Mishka,Thesis,SyncSeedbox&title_color=ff6496&text_color=ff6496&icon_color=ff6496" alt="Top Languages" />
         </picture>
       </a>
     </td>
